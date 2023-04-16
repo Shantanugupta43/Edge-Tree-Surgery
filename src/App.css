@@ -9,6 +9,7 @@
 a {
   outline: none;
   text-decoration: none;
+  color: black;
 
 }
 
@@ -105,6 +106,18 @@ main{
   display: flex;
   justify-content: space-between;
   background: #0D5C45;
+  opacity: 0; /* set element to be invisible initially */
+  animation: fadeIn forwards 1s; /* specify the name of the animation */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0; /* start with element being invisible */
+  }
+
+  to {
+    opacity: 1; /* end with element being fully visible */
+  }
 }
 
 .layout{
@@ -142,6 +155,7 @@ footer{
   margin-top: 115px;
   color: #1c8165;
   width: 80%;
+  animation: fadeIn forwards 1s;
 }
 .workerontree{
 
