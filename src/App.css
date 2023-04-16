@@ -37,10 +37,12 @@ justify-content: flex-end;
 margin-right: 30px;
 }
 
-.logimage {
-  height: 408px;
-  margin-left: 12px;
-  width: 350px;
+.logimage{
+  width: 440px; 
+  height: 489px;
+  float: right;
+ margin-right: 49px;
+
 }
 
 form{
@@ -141,10 +143,13 @@ footer{
   color: #1c8165;
   width: 80%;
 }
-.workerontree {
-  height: 468px;
-  margin-left: 12px;
-  width: 355px;
+.workerontree{
+
+  height: 600px;
+  width: 382px;
+  margin-top: 80px;
+  margin-left:40px;
+
 }
 
 .wrapper{
@@ -215,10 +220,11 @@ margin-top: 20px;
 }
 
 .workerontree {
-  width: 330px;
-  height: 468px;
+  width: 320px;
+  height: 408px;
   margin-left: 0px;
 }
+
 
 
 .servicecontainer {
@@ -235,6 +241,14 @@ h1{
   width: 154px;
 }
 
+
+
+
+.logimage {
+  width: 350px;
+  height: 408px;
+  margin-right: 50px;
+}
 
 .directorimage {
   width: 391px;
