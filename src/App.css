@@ -229,6 +229,10 @@ margin-top: 20px;
     flex-direction: column;
 }
 
+li{
+  margin-bottom: 18px;
+}
+
 .logo{
   width: 285px;
 }
