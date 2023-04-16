@@ -1,7 +1,4 @@
 import './App.css';
-import Descriptiontwo from './Descriptiontwo';
-import Footer from './Footer';
-import HeroContent from './HeroContent';
 import stormdamagetree from './images/stormdamagetree.jpg';
 import stormdamage from './images/stormdamage.jpg';
 import logthrow from './images/logthrow.jpg';

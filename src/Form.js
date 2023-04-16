@@ -34,6 +34,7 @@ function Form() {
       <textarea
         id="description"
         onChange={(event) => setDescription(event.target.value)}
+        value={description}
         className="input-field"
       />
 
