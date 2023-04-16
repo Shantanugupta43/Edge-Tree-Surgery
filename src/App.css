@@ -37,12 +37,10 @@ justify-content: flex-end;
 margin-right: 30px;
 }
 
-.logimage{
-  width: 440px; 
-  height: 489px;
-  float: right;
- margin-right: 49px;
-
+.logimage {
+  height: 408px;
+  margin-left: 12px;
+  width: 350px;
 }
 
 form{
@@ -143,13 +141,10 @@ footer{
   color: #1c8165;
   width: 80%;
 }
-.workerontree{
-
-  height: 600px;
-  width: 382px;
-  margin-top: 80px;
-  margin-left:40px;
-
+.workerontree {
+  height: 468px;
+  margin-left: 12px;
+  width: 355px;
 }
 
 .wrapper{
@@ -240,14 +235,6 @@ h1{
   width: 154px;
 }
 
-
-
-
-.logimage {
-  width: 350px;
-  height: 408px;
-  margin-right: 50px;
-}
 
 .directorimage {
   width: 391px;
