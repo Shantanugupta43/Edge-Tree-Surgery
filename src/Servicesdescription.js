@@ -14,7 +14,13 @@ import treemantwo from './images/treemantwo.jpg';
 function ServicesDescription() {
 
   return (
+
+    
 <div className='wrapper'>
+<section className="description-text">
+<h1>Quick Service</h1>
+<p>Turnaround within a week guaranteed. No job too small or too large.</p>
+</section>
 <main className="servicecontainer">
 <section className="description-text">
 <h1>STORM DAMAGE</h1>
