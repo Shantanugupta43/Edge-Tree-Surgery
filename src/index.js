@@ -10,7 +10,8 @@ import Footer from './Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Routing/>
+    <Routing/>  {/* Default rules that follow in all web pages which are
+                    Routing and Footer*/}
     <Footer/>
   </React.StrictMode>
 );

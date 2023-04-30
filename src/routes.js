@@ -1,3 +1,5 @@
+//Imports added
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Aboutpage from './Aboutpage';
@@ -9,10 +11,10 @@ function Routing() {
   return (
     <Router>
         <Routes>
-          <Route exact path="/" element={<Homepage />} />
-          <Route exact path="/about" element={<Aboutpage />} />
-          <Route exact path="/services" element={<ServicesPage />} />
-          <Route exact path="/contact" element={<ContactPage />} />
+          <Route exact path="/" element={<Homepage />} />    {/* Routes path and element assigned it loads Homepage */}
+          <Route exact path="/about" element={<Aboutpage />} />                    {/* Routes path and element assigned it loads Aboutpage */}
+          <Route exact path="/services" element={<ServicesPage />} />        {/* Routes path and element assigned it loads ServicesPage */}
+          <Route exact path="/contact" element={<ContactPage />} />   {/* Routes path and element assigned it loads  ContactPage */}
 
           
         </Routes>

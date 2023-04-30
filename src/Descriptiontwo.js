@@ -3,6 +3,8 @@ import treemantwo from './images/treemantwo.jpg';
 
 function Descriptiontwo() {
 
+   //The main content inside Home Page for stating Where the services are provided
+
   return (
 <article>
 <div className="knowhowcontainer">

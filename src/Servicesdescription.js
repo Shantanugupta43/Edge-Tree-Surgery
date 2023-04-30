@@ -1,3 +1,4 @@
+
 import './App.css';
 import stormdamagetree from './images/stormdamagetree.jpg';
 import stormdamage from './images/stormdamage.jpg';
@@ -12,6 +13,8 @@ import treemantwo from './images/treemantwo.jpg';
 
 
 function ServicesDescription() {
+
+// Main Content inside Services Page
 
   return (
 

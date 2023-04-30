@@ -4,6 +4,8 @@ import logthrow from './images/logthrow.jpg';
 
 function Description() {
 
+  //The main content inside Home Page for Tree Surgeons
+
   return (
 <article>
 <section className="description-text">

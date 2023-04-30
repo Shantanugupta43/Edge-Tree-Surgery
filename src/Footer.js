@@ -2,6 +2,8 @@ import './App.css';
 
 function Footer() {
 
+  //Footer used in the end of webpage
+
 
   return (
 
