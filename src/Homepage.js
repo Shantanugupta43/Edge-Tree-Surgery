@@ -9,7 +9,7 @@ import LogoNavigation from './logo';
 
 function Homepage() {
   useEffect(() => {
-    document.title = "Home";  // useEffect Hook used and Title of webpage is assigned
+    document.title = "Edge Tree Surgery | Environmentally friendly, skilled, reliable ";  // useEffect Hook used and Title of webpage is assigned
   }, []);
 
   return (
